@@ -8,7 +8,7 @@ export default function Footer() {
           <img src="/assets/logo.png" alt="Tavitax Logo" className="footer-logo" />
           <p className="opacity-90" style={{ fontSize: "0.95rem" }}>
             Website chính thức Dự án Phúc An Asuka - Châu Đốc.<br />
-            Phân phối & Tư vấn chiến lược bởi Tavitax.
+            Phát triển bởi Trần Anh Group. Phân phối & Tư vấn chiến lược bởi Tavitax.
           </p>
           <p className="opacity-90 mt-2 text-sm" style={{ color: "rgba(255,255,255,0.5)" }}>
             © {new Date().getFullYear()} Tavitax. All rights reserved.
