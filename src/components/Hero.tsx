@@ -4,7 +4,7 @@ import { DownloadSimple, ArrowRight } from "@phosphor-icons/react";
 export default function Hero() {
   return (
     <section id="hero" className="hero-section">
-      <div className="hero-bg" style={{ backgroundImage: "url('/assets/hero-asuka.png')" }}></div>
+      <div className="hero-bg" style={{ backgroundImage: "url('/assets/hero-masterplan.jpg')" }}></div>
       <div className="container hero-content-wrapper">
         <div className="hero-content glass-card" data-aos="fade-up" style={{ maxWidth: "800px" }}>
           <div className="hero-badge">Dự Án Hạng Sang</div>
